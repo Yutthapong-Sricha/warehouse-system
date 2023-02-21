@@ -1,0 +1,21 @@
+Warehouse system
+########################
+Step 1. create project warehouse-system
+--------
+npm create vuestic@latest
+---
+
+Step 2. install node node_module 
+--------
+npm install
+---
+
+Step 3. Create Layout  
+--------
+npx nuxi add layout default
+---
+
+Step 4. Create page index  
+--------
+npx nuxi add page index
+---

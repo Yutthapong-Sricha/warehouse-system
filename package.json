@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@vuestic/nuxt": "^1.0.10",
+    "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "@vuestic/ag-grid-theme": "^1.1.3"
+  }
+}
